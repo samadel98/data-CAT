@@ -1,3 +1,8 @@
+**This repository has moved.** Data-CAT is now developed, with its full history, in the
+`data-CAT/ folder of the CAT repository <https://github.com/samadel98/CAT/tree/master/data-CAT>`__,
+and this repository is no longer updated. Install Data-CAT from there with
+``pip install git+https://github.com/samadel98/CAT "Data-CAT @ git+https://github.com/samadel98/CAT#subdirectory=data-CAT"``,
+and open issues and pull requests in the `CAT repository <https://github.com/samadel98/CAT>`__.
 
 .. image:: https://github.com/samadel98/data-CAT/actions/workflows/pythonpackage.yml/badge.svg?branch=master
     :target: https://github.com/samadel98/data-CAT/actions/workflows/pythonpackage.yml?query=branch%3Amaster
